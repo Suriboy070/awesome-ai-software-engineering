@@ -69,6 +69,7 @@ Autonomous agents that can plan, write, and debug code with minimal supervision.
 | [Mentat](https://github.com/AbanteAI/mentat) | Abante AI | AI coding assistant that understands your entire codebase |
 | [GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer) | GPT Engineer | Generate entire codebases from a single prompt |
 | [Sweep](https://github.com/sweepai/sweep) | Sweep AI | AI-powered junior developer that handles GitHub issues |
+| [Mistral Vibe](https://github.com/mistralai/mistral-vibe) | Mistral AI | CLI coding assistant with interactive chat, code search, and shell integration |
 
 ---
 
@@ -128,6 +129,7 @@ Tools and methodologies for requirements-first AI development.
 | [OpenSpec](https://github.com/Fission-AI/OpenSpec) | Fission AI | Open standard for AI-consumable specifications |
 | [Get Shit Done](https://github.com/glittercowboy/get-shit-done) | Glitter Cowboy | Opinionated workflow for shipping with AI assistance |
 | [SpecStory](https://github.com/specstoryai/specstory) | SpecStory | Turn user stories into detailed specifications |
+| [nano-spec](https://github.com/tao-hpu/nano-spec) | tao-hpu | Lightweight task specification framework with 4-doc structure for AI development |
 
 ---
 
