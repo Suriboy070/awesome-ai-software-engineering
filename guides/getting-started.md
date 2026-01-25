@@ -30,6 +30,18 @@ Consider an autonomous agent:
 | Git integration | [Aider](https://github.com/paul-gauthier/aider) |
 | Maximum control | [OpenCode](https://github.com/anomalyco/opencode) |
 
+### For Building Custom Agents
+
+Embed AI agents in your applications:
+
+| If you want... | Try this |
+|----------------|----------|
+| Python integration | [Claude Agent SDK](https://platform.claude.com/docs/en/agent-sdk/overview) (`uv add claude-code-sdk`) |
+| TypeScript/Node.js | [Claude Agent SDK](https://platform.claude.com/docs/en/agent-sdk/overview) (`npm i @anthropic-ai/claude-code-sdk`) |
+| .NET ecosystem | [Microsoft Agent Framework](https://github.com/microsoft/agent-framework) |
+
+See our [Agent SDK Guide](agent-sdk-guide.md) for detailed usage.
+
 ## Step 2: Your First AI-Assisted Task
 
 ### The Basic Workflow

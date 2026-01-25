@@ -15,6 +15,7 @@ Modern software development is being transformed by AI agents, coding copilots, 
 - [AI Coding Agents](#ai-coding-agents)
 - [Coding Copilots](#coding-copilots)
 - [Multi-Agent Frameworks](#multi-agent-frameworks)
+- [Agent SDKs](#agent-sdks)
 - [Spec-Driven Development](#spec-driven-development)
 - [Skills & Plugins](#skills--plugins)
 - [Methodologies](#methodologies)
@@ -40,6 +41,7 @@ Read more in our [Philosophy Guide](concepts/philosophy.md).
 **Step 1:** Choose your primary tool
 - New to AI coding? Start with [Claude Code](https://github.com/anthropics/claude-code) or [Cursor](https://cursor.sh)
 - Want maximum control? Try [Aider](https://github.com/paul-gauthier/aider) or [OpenCode](https://github.com/anomalyco/opencode)
+- Building custom agents? Use [Claude Agent SDK](https://platform.claude.com/docs/en/agent-sdk/overview)
 
 **Step 2:** Adopt a spec-driven workflow
 - Write a brief PRD before starting any feature
@@ -95,9 +97,22 @@ Coordinate multiple AI agents for complex engineering tasks.
 | [Gas Town](https://github.com/steveyegge/gastown) | Steve Yegge | Multi-agent coding framework with specialized agent roles |
 | [Ralph](https://github.com/snarktank/ralph) | Snarktank | PRD-driven development with automated planning loops |
 | [CrewAI](https://github.com/joaomdmoura/crewai) | Joao Moura | Framework for orchestrating role-playing autonomous agents |
-| [AutoGen](https://github.com/microsoft/autogen) | Microsoft | Multi-agent conversation framework for complex tasks |
+| [AutoGen](https://github.com/microsoft/autogen) | Microsoft | Multi-agent conversation framework (⚠️ maintenance mode - see [Microsoft Agent Framework](#agent-sdks)) |
 | [MetaGPT](https://github.com/geekan/MetaGPT) | MetaGPT | Multi-agent framework that turns requirements into PRDs and code |
 | [ChatDev](https://github.com/OpenBMB/ChatDev) | OpenBMB | Collaborative AI agents simulating a software company |
+
+---
+
+## Agent SDKs
+
+Build production AI agents programmatically with these SDKs.
+
+| Name | Author | Languages | Description |
+|------|--------|-----------|-------------|
+| [Claude Agent SDK](https://platform.claude.com/docs/en/agent-sdk/overview) | Anthropic | Python, TypeScript | Build production agents using Claude Code as a library. Built-in tools, hooks, subagents, MCP support |
+| [Microsoft Agent Framework](https://github.com/microsoft/agent-framework) | Microsoft | Python, .NET | Unified framework combining AutoGen and Semantic Kernel (GA Q1 2026) |
+| [LangChain](https://github.com/langchain-ai/langchain) | LangChain | Python, JS | Popular framework for LLM-powered applications |
+| [LlamaIndex](https://github.com/run-llama/llama_index) | LlamaIndex | Python | Data framework for LLM applications with RAG |
 
 ---
 
@@ -187,6 +202,7 @@ Ready-to-use templates for your projects:
 ### External Resources
 
 - [Anthropic Claude Documentation](https://docs.anthropic.com)
+- [Claude Agent SDK Documentation](https://platform.claude.com/docs/en/agent-sdk/overview)
 - [Model Context Protocol](https://modelcontextprotocol.io)
 - [Prompt Engineering Guide](https://www.promptingguide.ai)
 

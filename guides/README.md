@@ -9,6 +9,7 @@ Practical how-to content for AI-powered software engineering.
 | [Getting Started](getting-started.md) | Your first steps with AI coding tools | Beginners |
 | [Spec-Driven Development](spec-driven-development.md) | Writing specifications that AI can execute | Intermediate |
 | [Choosing Your Tools](choosing-your-tools.md) | How to select the right tools for your workflow | All levels |
+| [Agent SDK Guide](agent-sdk-guide.md) | Build custom agents with Claude Agent SDK | Advanced |
 
 ## Guide Philosophy
 

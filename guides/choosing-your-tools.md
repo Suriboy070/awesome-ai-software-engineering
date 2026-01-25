@@ -21,7 +21,8 @@ This guide helps you select the right AI tools for your workflow, experience lev
 | Bug fixing | Claude Code, Cline, Continue |
 | Refactoring | Aider, Claude Code |
 | Greenfield projects | GPT Engineer, MetaGPT |
-| Complex systems | Gas Town, CrewAI, AutoGen |
+| Complex systems | Gas Town, CrewAI, Microsoft Agent Framework |
+| Custom agent apps | Claude Agent SDK, Microsoft Agent Framework |
 
 ### Question 3: What Environment Do You Prefer?
 
@@ -89,7 +90,27 @@ Best for: Complex projects with multiple concerns
 **Top picks:**
 - [Gas Town](https://github.com/steveyegge/gastown) - Best for experienced teams
 - [CrewAI](https://github.com/joaomdmoura/crewai) - Best documentation
-- [AutoGen](https://github.com/microsoft/autogen) - Best Microsoft integration
+- [Microsoft Agent Framework](https://github.com/microsoft/agent-framework) - Unified successor to AutoGen + Semantic Kernel
+
+### Agent SDKs
+
+Best for: Building custom AI-powered applications
+
+**Pros:**
+- Full programmatic control
+- Embed agent capabilities in your apps
+- Custom hooks and permissions
+- Session management for context
+
+**Cons:**
+- Requires development effort
+- More responsibility for error handling
+- Need to manage infrastructure
+
+**Top picks:**
+- [Claude Agent SDK](https://platform.claude.com/docs/en/agent-sdk/overview) - Best for Claude-powered agents
+- [Microsoft Agent Framework](https://github.com/microsoft/agent-framework) - Best for .NET ecosystem
+- [LangChain](https://github.com/langchain-ai/langchain) - Best ecosystem and community
 
 ## Building Your Stack
 
@@ -124,6 +145,17 @@ Good balance of power and simplicity.
 ```
 
 For teams with complex needs and resources to maintain.
+
+### SDK Integration Stack
+
+```
+1. Agent SDK (Claude Agent SDK)
+2. Custom application layer
+3. MCP servers for external integrations
+4. Hooks for validation and logging
+```
+
+For teams building AI-powered products or automation.
 
 ## Evaluation Criteria
 

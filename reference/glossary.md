@@ -9,6 +9,9 @@ Key terms and definitions for AI-powered software engineering.
 ### Agent
 An AI system that can autonomously perform tasks, make decisions, and interact with external systems. Unlike simple chatbots, agents can execute multi-step workflows with minimal human intervention.
 
+### Agent SDK
+A software development kit for building AI agents programmatically. Unlike CLI tools for interactive use, SDKs let you embed agent capabilities into your own applications. Examples: Claude Agent SDK, Microsoft Agent Framework.
+
 ### Agentic Workflow
 A development approach where AI agents handle significant portions of implementation autonomously, guided by specifications and human oversight.
 
@@ -27,7 +30,7 @@ An AI assistant integrated into an IDE that provides real-time code suggestions,
 ## H
 
 ### Hooks
-Custom scripts that execute at specific points in an AI tool's workflow. Used to validate changes, run tests, or enforce conventions automatically.
+Custom scripts or functions that execute at specific points in an AI tool's workflow. In CLI tools, hooks are shell scripts; in Agent SDKs, hooks are programming language functions (Python, TypeScript). Used to validate changes, run tests, log activity, or enforce conventions automatically.
 
 ---
 
@@ -82,6 +85,12 @@ A methodology where specifications are written before code. The spec serves as t
 ### Specification (Spec)
 A document describing what should be built, including requirements, constraints, and acceptance criteria. Can be formal (PRD) or informal (task description).
 
+### Session
+In agent SDKs, a session maintains context (conversation history, tool results, working state) across multiple queries. Sessions enable follow-up queries that build on previous interactions without losing context.
+
+### Subagent
+A secondary AI agent spawned by a primary agent to handle specific subtasks. Subagents can work in parallel on different aspects of a complex task, then report results back to the main agent.
+
 ---
 
 ## T
@@ -113,6 +122,7 @@ A defined sequence of steps for accomplishing a task. In AI coding, often refers
 | MCP | Model Context Protocol |
 | PRD | Product Requirements Document |
 | RAG | Retrieval-Augmented Generation |
+| SDK | Software Development Kit |
 
 ---
 

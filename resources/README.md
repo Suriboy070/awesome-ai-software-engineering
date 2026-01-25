@@ -53,9 +53,11 @@ External links and additional learning materials.
 | Tool | Repository | Docs |
 |------|------------|------|
 | Claude Code | [anthropics/claude-code](https://github.com/anthropics/claude-code) | [Docs](https://docs.anthropic.com) |
+| Claude Agent SDK | - | [Docs](https://platform.claude.com/docs/en/agent-sdk/overview) |
 | Aider | [paul-gauthier/aider](https://github.com/paul-gauthier/aider) | [aider.chat](https://aider.chat) |
 | Cursor | [cursor.sh](https://cursor.sh) | [docs.cursor.com](https://docs.cursor.com) |
 | Continue | [continuedev/continue](https://github.com/continuedev/continue) | [continue.dev](https://continue.dev) |
+| Microsoft Agent Framework | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | [Docs](https://github.com/microsoft/agent-framework#readme) |
 
 ### Skills & Extensions
 
