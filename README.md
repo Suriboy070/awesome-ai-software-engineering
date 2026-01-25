@@ -70,6 +70,10 @@ Autonomous agents that can plan, write, and debug code with minimal supervision.
 | [GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer) | GPT Engineer | Generate entire codebases from a single prompt |
 | [Sweep](https://github.com/sweepai/sweep) | Sweep AI | AI-powered junior developer that handles GitHub issues |
 | [Mistral Vibe](https://github.com/mistralai/mistral-vibe) | Mistral AI | CLI coding assistant with interactive chat, code search, and shell integration |
+| [Google Antigravity](https://antigravity.google) | Google | Agentic IDE with multi-agent deployment powered by Gemini 3 |
+| [OpenAI Codex](https://openai.com/codex) | OpenAI | Cloud-based coding agent for autonomous development tasks |
+| [GitHub Copilot CLI](https://github.blog/changelog/2026-01-14-github-copilot-cli-enhanced-agents-context-management-and-new-ways-to-install/) | GitHub | Terminal-based AI assistant with agent delegation and parallel execution |
+| [GitHub Copilot Coding Agent](https://github.com/features/copilot/agents) | GitHub | Cloud-hosted autonomous agent that works on GitHub issues |
 
 ---
 
@@ -82,10 +86,12 @@ IDE-integrated assistants that augment your coding workflow.
 | [Cursor](https://cursor.sh) | Cursor Inc | AI-first code editor built on VSCode with deep model integration |
 | [Cline](https://github.com/cline/cline) | Cline | Autonomous coding agent that lives in your IDE |
 | [Kilo Code](https://github.com/Kilo-Org/kilocode) | Kilo Org | VSCode extension for AI-assisted development with MCP support |
-| [GitHub Copilot](https://github.com/features/copilot) | GitHub | AI pair programmer that suggests code in real-time |
+| [GitHub Copilot](https://github.com/features/copilot) | GitHub | AI pair programmer suite with Chat, CLI, coding agent, and code review agent |
 | [Continue](https://github.com/continuedev/continue) | Continue | Open-source autopilot for software development |
 | [Supermaven](https://supermaven.com) | Supermaven | Ultra-fast code completions with 1M token context |
 | [Tabnine](https://www.tabnine.com) | Tabnine | AI code assistant trained on your codebase |
+| [Windsurf](https://windsurf.com) | Codeium | AI-first IDE with Cascade agentic flow and multi-file editing |
+| [Roo Code](https://github.com/RooCodeInc/Roo-Code) | Roo Code Inc | Open-source AI assistant with role-specific modes (Architect, Code, Debug, Test) |
 
 ---
 
