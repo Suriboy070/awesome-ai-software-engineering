@@ -17,6 +17,7 @@ Modern software development is being transformed by AI agents, coding copilots, 
 - [Multi-Agent Frameworks](#multi-agent-frameworks)
 - [Agent SDKs](#agent-sdks)
 - [LLM Observability & Gateways](#llm-observability--gateways)
+- [LLM Inference Engines](#llm-inference-engines)
 - [Spec-Driven Development](#spec-driven-development)
 - [Skills & Plugins](#skills--plugins)
 - [Methodologies](#methodologies)
@@ -136,6 +137,18 @@ Monitor, debug, and route LLM traffic in production.
 | [Helicone](https://github.com/Helicone/helicone) | Helicone | Observability | LLM observability with request logging, cost tracking, and prompt analytics |
 | [OpenLLMetry](https://github.com/traceloop/openllmetry) | Traceloop | Observability | OpenTelemetry-based tracing for LLMs, integrates with Datadog, Honeycomb, Grafana |
 | [Logfire](https://github.com/pydantic/logfire) | Pydantic | Observability | Python-native observability with OpenTelemetry, excellent FastAPI/Pydantic integration |
+
+---
+
+## LLM Inference Engines
+
+Self-host and run LLMs on your own infrastructure.
+
+| Name | Author | Description |
+|------|--------|-------------|
+| [vLLM](https://github.com/vllm-project/vllm) | vLLM Project | High-throughput LLM serving with PagedAttention for efficient memory management |
+| [llama.cpp](https://github.com/ggml-org/llama.cpp) | GGML | C/C++ LLM inference with broad hardware support (CPU, GPU, Apple Silicon) |
+| [SGLang](https://github.com/sgl-project/sglang) | SGLang Project | Fast serving framework with RadixAttention and structured generation support |
 
 ---
 
