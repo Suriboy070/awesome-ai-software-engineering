@@ -66,6 +66,7 @@ Autonomous agents that can plan, write, and debug code with minimal supervision.
 | [Codex CLI](https://github.com/openai/codex) | OpenAI | Terminal-based coding agent powered by GPT models |
 | [OpenCode](https://github.com/anomalyco/opencode) | Anomaly | Open-source AI coding agent with extensible architecture |
 | [Aider](https://github.com/paul-gauthier/aider) | Paul Gauthier | AI pair programming in your terminal with git integration |
+| [cecli (aider-ce)](https://github.com/dwash96/cecli) | dwash96 | Aider fork with a different style of AI-assisted coding |
 | [Mentat](https://github.com/AbanteAI/mentat) | Abante AI | AI coding assistant that understands your entire codebase |
 | [GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer) | GPT Engineer | Generate entire codebases from a single prompt |
 | [Sweep](https://github.com/sweepai/sweep) | Sweep AI | AI-powered junior developer that handles GitHub issues |
