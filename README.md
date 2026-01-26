@@ -16,6 +16,7 @@ Modern software development is being transformed by AI agents, coding copilots, 
 - [Coding Copilots](#coding-copilots)
 - [Multi-Agent Frameworks](#multi-agent-frameworks)
 - [Agent SDKs](#agent-sdks)
+- [LLM Observability & Gateways](#llm-observability--gateways)
 - [Spec-Driven Development](#spec-driven-development)
 - [Skills & Plugins](#skills--plugins)
 - [Methodologies](#methodologies)
@@ -121,6 +122,20 @@ Build production AI agents programmatically with these SDKs.
 | [Microsoft Agent Framework](https://github.com/microsoft/agent-framework) | Microsoft | Python, .NET | Unified framework combining AutoGen and Semantic Kernel (GA Q1 2026) |
 | [LangChain](https://github.com/langchain-ai/langchain) | LangChain | Python, JS | Popular framework for LLM-powered applications |
 | [LlamaIndex](https://github.com/run-llama/llama_index) | LlamaIndex | Python | Data framework for LLM applications with RAG |
+
+---
+
+## LLM Observability & Gateways
+
+Monitor, debug, and route LLM traffic in production.
+
+| Name | Author | Type | Description |
+|------|--------|------|-------------|
+| [LiteLLM](https://github.com/BerriAI/litellm) | BerriAI | Gateway | Unified API proxy for 100+ LLM providers with load balancing, spend tracking, and caching |
+| [Langfuse](https://github.com/langfuse/langfuse) | Langfuse | Observability | Open-source LLM engineering platform with tracing, prompt management, and evaluations |
+| [Helicone](https://github.com/Helicone/helicone) | Helicone | Observability | LLM observability with request logging, cost tracking, and prompt analytics |
+| [OpenLLMetry](https://github.com/traceloop/openllmetry) | Traceloop | Observability | OpenTelemetry-based tracing for LLMs, integrates with Datadog, Honeycomb, Grafana |
+| [Logfire](https://github.com/pydantic/logfire) | Pydantic | Observability | Python-native observability with OpenTelemetry, excellent FastAPI/Pydantic integration |
 
 ---
 
